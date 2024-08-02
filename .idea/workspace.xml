@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="86aafa4a-814b-407f-be1f-6bf623af18c1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="86aafa4a-814b-407f-be1f-6bf623af18c1" name="Changes" comment="Добавил еще два текста" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,9 +25,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/winglet/Yandex.Disk.localized/Обучение/Python Пайтон/pythonProject5"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject5" />
@@ -67,17 +74,56 @@
       <option name="presentableId" value="Default" />
       <updated>1722599593111</updated>
     </task>
+    <task id="LOCAL-00001" summary="Посадил некто">
+      <option name="closed" value="true" />
+      <created>1722599816635</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722599816635</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Посадил уже дед и большую пребольшую">
+      <option name="closed" value="true" />
+      <created>1722600073816</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722600073816</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Добавил еще два текста">
+      <option name="closed" value="true" />
+      <created>1722600153270</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722600153270</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Добавил еще два текста">
+      <option name="closed" value="true" />
+      <created>1722600240008</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722600240008</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Посадил некто" />
+    <MESSAGE value="Посадил уже дед и большую пребольшую" />
+    <MESSAGE value="Добавил еще два текста" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил еще два текста" />
   </component>
 </project>
